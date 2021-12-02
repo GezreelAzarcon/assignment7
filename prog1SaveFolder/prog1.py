@@ -8,7 +8,7 @@
 #vowels: 6
 #consonants: 8
 
-sen = input('Hey there my nigga: ')
+sen = input('Input: ')
 vow = 0
 cons = 0
 for i in sen:
